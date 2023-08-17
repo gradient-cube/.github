@@ -1,4 +1,4 @@
-# Gradient Cube
+# Gradient Cube Freelancer platform
 
 Basic (Must-be) features:
 
