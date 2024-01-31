@@ -25,3 +25,4 @@ Basic (Must-be) features:
 * Provide mentorship opportunities
 * Offer networking events
 * Help with taxes and legal compliance
+* Connect to social group on social media platforms (FB Group,...)
